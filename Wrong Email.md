@@ -24,14 +24,14 @@ I searched `advanced search` and found `Search Advanced - Twitter`. In many CTFs
 
 Now let's search the  `avalon8973` part in `twitter advanced search`.
 
-![](Pasted%20image%2020240430204655.png)
+![](Images/Pasted%20image%2020240430204655.png)
 
 You will find this account only.
 
-![](Pasted%20image%2020240430204758.png)
+![](Images/Pasted%20image%2020240430204758.png)
 
 Now if you go into the account, you will see photo of a bus of `SUST`. So `avalon` was last in `Sylhet`.
 
 **Flag : `iutctf{Sylhet}`**
 
-![](Pasted%20image%2020240430205001.png)
+![](Images/Pasted%20image%2020240430205001.png)
