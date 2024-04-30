@@ -8,7 +8,9 @@
 *Flag format: `iutctf{District}`
 
 
+---
 #### Walkthrough
+
 
 First what came in my mind that is there any online tool that can trace email address?. If you search like `email location finder` or something like this, you will find many website that can find the location of the email. But most of them are paid.
 
@@ -29,7 +31,6 @@ You will find this account only.
 
 Now if you go into the account, you will see photo of a bus of `SUST`. So `avalon` was last in `Sylhet`.
 
-> [!Flag]
-> `iutctf{Sylhet}`
+**Flag : `iutctf{Sylhet}`**
 
 ![](Pasted%20image%2020240430205001.png)
