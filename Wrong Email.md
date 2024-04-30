@@ -5,7 +5,7 @@
 
 *N.B. The flag will be the name of the last visited district.*
 
-*Flag format: `iutctf{District}`
+*Flag format: `iutctf{District}`*
 
 
 ---
