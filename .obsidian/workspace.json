@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "524652e0ef99dee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bird's Eye.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bird's Eye.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bird's Eye.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -159,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c2ab954d2266536",
+  "active": "524652e0ef99dee4",
   "lastOpenFiles": [
+    "Bird's Eye.md",
+    "Readme.md",
     "Wrong Email.md",
     "Interlaced.md",
     "Images/Pasted image 20240430233557.png",
@@ -173,7 +187,6 @@
     "Images/Pasted image 20240430231842.png",
     "Images/Pasted image 20240430231801.png",
     "Images/Pasted image 20240430231619.png",
-    "Bird's Eye.md",
     "Attachments",
     "Images",
     "Pasted image 20240430214824.png.~tmp",
