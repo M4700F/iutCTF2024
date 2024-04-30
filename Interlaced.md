@@ -15,33 +15,32 @@ The challenge's name is `interlaced`. What is `interlacing`?
 
 `Interlacing` is a technique to fill the alternating lines of data in an image, helping to visualize the image before it is completely rendered.
 
-In a normal image we see the first row of pixels, then the second line and so on as the image loads from top to bottom. This means we can't see much about the image until it is fully loaded. If we load every 2nd or 4th line of the image first then fill the remaining gaps, we will get a rough version of the image. (Our brain very good at filling the gaps).
+In a normal image we see the first row of pixels, then the second line and so on as the image loads from top to bottom. This means we can't see much about the image until it is fully loaded. If we load every 2nd or 4th line of the image first then fill the remaining gaps, we will get a rough version of the image. (Our brain is very good at filling the gaps).
 
 `Interlace` is helpful when the file is too large or the user has slow internet connection.
 
 #### Understanding the problem
 ---
 
-The question says the author was editing and accidentally corrupted two files. Here I think the two image files refer to two QR images. By intuition, I thought that the two image was `interlaced.`
+The question says the author was editing and accidentally corrupted two files. Here I think the two image files refer to two QR images. By intuition, I thought that the two images were `interlaced.`
 
-So I looked for `deinterlacing tool` online.
+So I looked for `deinterlacing tool` on online.
 
 ![](Images/Pasted%20image%2020240430231521.png)
 
-After examining some links, I found a website `G'MIC Online`
+
+After examining some links, I found a website called `G'MIC Online`
 
 ![](Images/Pasted%20image%2020240430231619.png)
-After uploading the `chal.png` into that website, I saw a button called `Select Filter`
+After uploading the `chal.png` into that website, I clicked on the button called `Select Filter`
 
 ![](Images/Pasted%20image%2020240430231801.png)
-
-Let's click on this.
 
 You will find a list of filters.
 
 ![](Images/Pasted%20image%2020240430231842.png)
 
-After some examining I clicked on `Repair`.
+After looking into different filters, I clicked on `Repair`.
 
 ![](Images/Screenshot%202024-04-30%20231922.png)
 
@@ -62,18 +61,18 @@ We get this image :
 
 After scanning this QR code, we get this `r0gr4mm1ng_ch4ll3ng3!}`
 
-As there are two images, this string is for one QR image. Let's find the other.
+As there are two images interlaced, this string is for one QR image. Let's find the other one.
 
 ![](Images/Pasted%20image%2020240430233441.png)
 
-There is another option called `Deinterlace2x`. Let's do the same thing as before `render` and click on the `Download` button.
+There is another option called `Deinterlace2x`. Let's do the same thing as before, `render` and click on the `Download` button.
 
-We get this :
+We get this image :
 
 ![](Images/Pasted%20image%2020240430233557.png)
 
 if you scan the QR code you will find this `iutctf{r34lly_ju57_4_p`
 
-This is the first part of the flag.
+Basically this is the first part of the flag.
 
 So the **flag** is : `iutctf{r34lly_ju57_4_pr0gr4mm1ng_ch4ll3ng3!}`

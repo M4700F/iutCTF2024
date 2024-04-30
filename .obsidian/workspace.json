@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interlaced.md",
+                "file": "Bird's Eye.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interlaced.md",
+                "file": "Bird's Eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interlaced.md",
+                "file": "Bird's Eye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interlaced.md"
+                "file": "Bird's Eye.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "8c2ab954d2266536",
   "lastOpenFiles": [
+    "Wrong Email.md",
+    "Interlaced.md",
     "Images/Pasted image 20240430233557.png",
     "Images/Pasted image 20240430233441.png",
     "Images/Pasted image 20240430233056.png",
@@ -171,9 +173,6 @@
     "Images/Pasted image 20240430231842.png",
     "Images/Pasted image 20240430231801.png",
     "Images/Pasted image 20240430231619.png",
-    "Images/Pasted image 20240430231521.png",
-    "Wrong Email.md",
-    "Interlaced.md",
     "Bird's Eye.md",
     "Attachments",
     "Images",

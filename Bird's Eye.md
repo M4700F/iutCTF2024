@@ -25,15 +25,15 @@ We found a list.
 
 ![](Images/Pasted%20image%2020240430211506.png)
 
-`Chemstar Water`. Interesting. Let's see what this `Chemstar Water` is. By clicking in the `Chemstar Water` linkedIn profile, It is a leading water treatment provided based in `Middle River, Maryland, US`.
+`Chemstar Water`. Interesting. Let's see what this `Chemstar Water` is. By clicking in the `Chemstar Water` linkedIn profile, We see that It is a leading water treatment provided based in `Middle River, Maryland, US`.
 
 ![](Images/Screenshot%202024-04-30%20212009.png)
 
-And the image that is given in the challenge, we can see a river. This is the `Middle River`. As the question mentioned about a tallest building of this city, let's search `tallest building in Maryland`.
+And the image that is given in the challenge, there is a river. Basically this is the `Middle River`. As the question mentioned about a tallest building of this city, let's search `tallest building in Maryland`.
 
 ![](Images/Pasted%20image%2020240430212922.png)
 
-The tallest building is the `Legg Mason Building` which is 160.934 meter tall. If you see carefully in the `city.png`, you will see the this building.
+The tallest building is the `Legg Mason Building` which is 160.934 meter tall. If you see carefully in the `city.png`, you will see this building.
 
 ![](Images/Untitled%20design.png)
 
@@ -51,11 +51,11 @@ Let's click on the link.
 
 ![](Images/Pasted%20image%2020240430214751.png)
 
-if you scroll down a bit , you find this.
+if you scroll down a bit , you will find this.
 
 ![](Images/Pasted%20image%2020240430214824.png)
 
-The construction started in 1971. So the flag is :
+The construction started in `1971`. So the flag is :
 
 **Flag: `iutctf{1971}`**
 

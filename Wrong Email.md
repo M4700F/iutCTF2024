@@ -13,12 +13,12 @@
 #### Walkthrough
 ---
 
-First what came in my mind that is there any online tool that can trace email address?. If you search like `email location finder` or something like this, you will find many website that can find the location of the email. But most of them are paid.
+First what came in my mind that is there any online tool that can trace email address? If you search on online about `email location finder` or something like this, you will find many website that can find the location of the email. But most of them are paid.
 
 Even I found a chrome extension called `mailtag` that can give the location of the email address if an email with `mailtag` on was opened by the user. I did send a mail to `avalon8973@gmail.com` 
-hoping that `avalon` would open it :)
+hoping that `avalon` would open it XD
 
-Another thought came to my mind that why not search the `avalon8973` on google advanced search or something because this `avalon8973` seems like a username.
+Another thought came to my mind that why not search the `avalon8973` part on google advanced search or something because this `avalon8973` part seems like a username.
 
 I searched `advanced search` and found `Search Advanced - Twitter`. In many CTFs, I found that , in the `osint` category, if you are searching some info about someone in a challenge, you will find it in the twitter.
 
