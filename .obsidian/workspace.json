@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "179b382ad4611a75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,8 +156,11 @@
   },
   "active": "c7940a77302881f9",
   "lastOpenFiles": [
-    "Pasted image 20240430184107.png",
+    "Pasted image 20240430205001.png",
+    "Pasted image 20240430204758.png",
+    "Pasted image 20240430204655.png",
     "Wrong Email.md",
+    "Pasted image 20240430184107.png",
     "Pasted image 20240430185049.png"
   ]
 }
