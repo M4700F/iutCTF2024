@@ -16,7 +16,7 @@
 
 We are given a image. First duty is to search it in `google image search`.
 
-![](Image/Pasted%20image%2020240430211238.png)
+![](Pasted%20image%2020240430211238.png)
 
 Here we can see an option `See exact matches`. Let's dive into it.
 
