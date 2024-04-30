@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c2ab954d2266536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interlaced.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wrong Email.md",
+                "file": "Interlaced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wrong Email.md",
+                "file": "Interlaced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wrong Email.md"
+                "file": "Interlaced.md"
               }
             }
           }
@@ -146,24 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7940a77302881f9",
+  "active": "8c2ab954d2266536",
   "lastOpenFiles": [
+    "Images/Pasted image 20240430233557.png",
+    "Images/Pasted image 20240430233441.png",
+    "Images/Pasted image 20240430233056.png",
+    "Images/Pasted image 20240430233013.png",
+    "Images/Pasted image 20240430232902.png",
+    "Images/Pasted image 20240430232057.png",
+    "Images/Screenshot 2024-04-30 231922.png",
+    "Images/Pasted image 20240430231842.png",
+    "Images/Pasted image 20240430231801.png",
+    "Images/Pasted image 20240430231619.png",
+    "Images/Pasted image 20240430231521.png",
+    "Wrong Email.md",
+    "Interlaced.md",
     "Bird's Eye.md",
     "Attachments",
-    "Images/Pasted image 20240430211238.png",
     "Images",
-    "Images/city.png",
-    "Images/Pasted image 20240430214824.png",
     "Pasted image 20240430214824.png.~tmp",
-    "Pasted image 20240430214824 1.png",
-    "Images/Pasted image 20240430215327.png",
-    "Images/Pasted image 20240430215424.png",
-    "Images/Screenshot 2024-04-30 212009.png",
-    "Images/Pasted image 20240430204655.png",
-    "Images/Pasted image 20240430205001.png",
-    "Images/Pasted image 20240430211356.png",
-    "Wrong Email.md",
-    "Untitled.md",
     "Bird's Eye"
   ]
 }

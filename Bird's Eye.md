@@ -1,6 +1,6 @@
 
-
 #### Challenge Description
+---
 
 *You're a given an aerial view of a city in US. When the construction of the tallest building of this city started?*
 
@@ -10,9 +10,8 @@
 
 ![](Images/city.png)
 
----
-
 #### Walkthrough
+---
 
 We are given a image. First duty is to search it in `google image search`.
 
