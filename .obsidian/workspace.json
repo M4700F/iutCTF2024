@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bird's Eye/Bird's Eye.md",
+                "file": "Bird's Eye.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bird's Eye/Bird's Eye.md",
+                "file": "Bird's Eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bird's Eye/Bird's Eye.md",
+                "file": "Bird's Eye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bird's Eye/Bird's Eye.md"
+                "file": "Bird's Eye.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "c7940a77302881f9",
   "lastOpenFiles": [
+    "city.png",
+    "Bird's Eye.md",
     "Pasted image 20240430214824.png",
     "Pasted image 20240430214824.png.~tmp",
     "Pasted image 20240430214824 1.png",
@@ -159,7 +161,6 @@
     "Pasted image 20240430211238.png",
     "Pasted image 20240430211356.png",
     "Pasted image 20240430212922.png",
-    "Bird's Eye/Bird's Eye.md",
     "Wrong Email.md",
     "Untitled.md",
     "Bird's Eye"
