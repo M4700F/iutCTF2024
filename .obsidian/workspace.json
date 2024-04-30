@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wrong Email.md",
+                "file": "Bird's Eye/Bird's Eye.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "179b382ad4611a75",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wrong Email.md",
+                "file": "Bird's Eye/Bird's Eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wrong Email.md",
+                "file": "Bird's Eye/Bird's Eye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wrong Email.md"
+                "file": "Bird's Eye/Bird's Eye.md"
               }
             }
           }
@@ -156,11 +148,20 @@
   },
   "active": "c7940a77302881f9",
   "lastOpenFiles": [
-    "Pasted image 20240430205001.png",
-    "Pasted image 20240430204758.png",
+    "Pasted image 20240430214824.png",
+    "Pasted image 20240430214824.png.~tmp",
+    "Pasted image 20240430214824 1.png",
+    "Pasted image 20240430215327.png",
+    "Pasted image 20240430215424.png",
+    "Screenshot 2024-04-30 212009.png",
     "Pasted image 20240430204655.png",
+    "Pasted image 20240430205001.png",
+    "Pasted image 20240430211238.png",
+    "Pasted image 20240430211356.png",
+    "Pasted image 20240430212922.png",
+    "Bird's Eye/Bird's Eye.md",
     "Wrong Email.md",
-    "Pasted image 20240430184107.png",
-    "Pasted image 20240430185049.png"
+    "Untitled.md",
+    "Bird's Eye"
   ]
 }

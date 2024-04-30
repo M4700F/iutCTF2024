@@ -7,6 +7,7 @@
 
 *Flag format: `iutctf{District}`*
 
+*author: `Mohammed Sami Khan`*
 
 ---
 #### Walkthrough
