@@ -49,7 +49,7 @@ Ah! `Deinterlace` interesting. Let's click on this.
 
 ![](Images/Pasted%20image%2020240430232057.png)
 
-There are two algorithms we can see, one is `standard`, another one is `motion-compensated`
+There are two algorithms we can see here, one is `standard`, another one is `motion-compensated`
 
 ![](Images/Pasted%20image%2020240430232902.png)
 
@@ -62,7 +62,7 @@ We get this image :
 
 After scanning this QR code, we get this `r0gr4mm1ng_ch4ll3ng3!}`
 
-As there are two images interlaced, this string is for one QR image. Let's find the other one.
+As there are two images interlaced, this string is probably for one QR image. Let's find the other one.
 
 ![](Images/Pasted%20image%2020240430233441.png)
 
