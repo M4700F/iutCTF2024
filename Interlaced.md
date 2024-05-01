@@ -32,6 +32,7 @@ So I looked for `deinterlacing tool` on online.
 After examining some links, I found a website called `G'MIC Online`
 
 ![](Images/Pasted%20image%2020240430231619.png)
+
 After uploading the `chal.png` into that website, I clicked on the button called `Select Filter`
 
 ![](Images/Pasted%20image%2020240430231801.png)
