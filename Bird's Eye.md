@@ -33,7 +33,7 @@ And the image that is given in the challenge, there is a river. Basically this i
 
 ![](Images/Pasted%20image%2020240430212922.png)
 
-The tallest building is the `Legg Mason Building` which is 160.934 meter tall. If you see carefully in the `city.png`, you will see this building.
+The tallest building is the `Legg Mason Building` which is 160.934 meter tall. If you see carefully in the `city.png`, you will see a building named `Legg Mason` building.
 
 ![](Images/Untitled%20design.png)
 
@@ -46,7 +46,7 @@ If you click on the `Legg Mason Building`, you will see a Wikipedia link of `Tra
 ![](Images/Pasted%20image%2020240430215424.png)
 
 
-Let's click on the link.
+Let's click on the link. 
 
 
 ![](Images/Pasted%20image%2020240430214751.png)
@@ -59,8 +59,12 @@ The construction started in `1971`. So the flag is :
 
 **Flag: `iutctf{1971}`**
 
-Basically the original tower name is `Transamerica Tower`, but it's primary owner is `Legg Mason, Inc.`, which was an American Investment Management Company. You will find the history here also.
+Basically the original tower name is `Transamerica Tower`, but it's primary owner is `Legg Mason, Inc.`, which was an American Investment Management Company. You will find the history here also. 
+
+You can see that `Legg Mason announced that it would be moving to a new skyscraper in the Harbor East...`. 
 
 ![](Images/Pasted%20image%2020240430215327.png)
 
+Actually what is happening here is that `Leggs Mason` moves to a new building. Before 2009, it was in the `Transamerica Tower`. But I `google` is showing the previous building of `Leggs Mason` which is `Transamerica Tower`. You can also see `Transamerica Tower` in the picture.
 
+![](Images/TransamericaTower.png)
